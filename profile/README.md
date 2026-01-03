@@ -95,7 +95,7 @@ an example Makefile etc. for building a filesystem.  See the Anna Christina
 Naß's games repo (above) for an example of how to use it.
 - [CPM3_2063_Retro](https://gitlab.com/SolderGirl/CPM3_2063_Retro) - A port of
 CP/M 3 to the Retro! by SolderGirl
-- [A Retro! Emulator](https://github.com/EtchedPixels/EmulatorKit) - An
+- [A Retro! Emulator](https://codeberg.org/EtchedPixels/EmulatorKit) - An
 emulator of many retro-computing systems that includes the 2063-Z80 by [Alan
 Cox](https://en.wikipedia.org/wiki/Alan_Cox_(computer_programmer))
 - [Nabu Games](https://github.com/linuxplayground/nabu-games/releases) -
