@@ -10,6 +10,10 @@ contains much detail about all aspects of this project including the circuit
 boards, CP/M, the BIOS, and a video display board that uses a popular Video
 Display Processor called the TMS9118.
 
+# Getting Started
+
+See [Z80-Retro/setup](https://github.com/Z80-Retro/setup) to get a development environment up and running.
+
 ## Pre-Compiled Binaries
 
 There are pre-compiled binaries of the boot ROM flash and SD card image for the
