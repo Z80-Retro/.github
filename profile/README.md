@@ -33,15 +33,17 @@ OSHPark here](https://youtu.be/AUg_sbPnzn0).
 ## Version Tags and the YouTube Video Series
 
 As of 20220304, in order to locate the exact same versions of the source code
-as seen in the [Z80 Retro! YouTube
-playlist](https://www.youtube.com/playlist?list=PL3by7evD3F51Cf9QnsAEdgSQ4cz7HQZX5) 
-playlist you can check out (or download) the specific version of
+as seen in the 
+[Z80 Retro! YouTube playlist](https://www.youtube.com/playlist?list=PL3by7evD3F51Cf9QnsAEdgSQ4cz7HQZX5) 
+you can check out (or download) the specific version of
 the code using the date-code seen at the start of each video (that look like
 this: YYYYMMDD.n)
 
 For each repo in the Z80-Retro github organization, you will find a *git tag*
 with the same date-code in it that matches the given videos that are focused on
 that repo.  (Click on the tags link in any given repo to see them all.)
+
+The purpose of this tagging is to allow the project to evolve without disorienting anyone that joins in after the project has begun.
 
 ## Where to Find Everything
 
