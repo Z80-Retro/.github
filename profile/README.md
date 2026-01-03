@@ -33,7 +33,9 @@ OSHPark here](https://youtu.be/AUg_sbPnzn0).
 ## Version Tags and the YouTube Video Series
 
 As of 20220304, in order to locate the exact same versions of the source code
-as seen in the playlist you can check out (or download) the specific version of
+as seen in the [Z80 Retro! YouTube
+playlist](https://www.youtube.com/playlist?list=PL3by7evD3F51Cf9QnsAEdgSQ4cz7HQZX5) 
+playlist you can check out (or download) the specific version of
 the code using the date-code seen at the start of each video (that look like
 this: YYYYMMDD.n)
 
