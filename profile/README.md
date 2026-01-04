@@ -99,7 +99,7 @@ CP/M 3 to the Retro! by SolderGirl
 emulator of many retro-computing systems that includes the 2063-Z80 by [Alan
 Cox](https://en.wikipedia.org/wiki/Alan_Cox_(computer_programmer))
 - [Nabu Games](https://github.com/linuxplayground/nabu-games/releases) -
-Tetris, Invaders and Snake for the Z80-Retro by [ProductionDave](https://github.com/linuxplayground).  Look for
+Tetris, Invaders and Snake for the Z80-Retro by [ProductionDave](https://github.com/productiondave).  Look for
 downloads in the Releases section with `z80retro` in the name.
 
 ## Links to related social media
